@@ -99,7 +99,7 @@
   "1327": {
     "id": "1327",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "12/10/2026",
     "t": "8:15 PM",
