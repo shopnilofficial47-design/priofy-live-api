@@ -175,7 +175,7 @@
   "1332": {
     "id": "1332",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "12:15 AM",
@@ -191,7 +191,7 @@
   "1333": {
     "id": "1333",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "12:15 AM",
@@ -229,7 +229,7 @@
   "1334": {
     "id": "1334",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "12:15 AM",
