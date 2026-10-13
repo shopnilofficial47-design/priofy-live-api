@@ -75,7 +75,7 @@
   "1341": {
     "id": "1341",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "1:30 PM",
