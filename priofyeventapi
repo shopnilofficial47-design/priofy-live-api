@@ -248,7 +248,7 @@
   "1346": {
     "id": "1346",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "5:30 PM",
