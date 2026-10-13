@@ -179,7 +179,7 @@
   "1347": {
     "id": "1347",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "6:15 PM",
@@ -210,7 +210,7 @@
   "1348": {
     "id": "1348",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/10/2026",
     "t": "6:15 PM",
