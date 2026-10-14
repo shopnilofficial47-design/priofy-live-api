@@ -166,30 +166,6 @@
       }
     ]
   },
-  "1388": {
-    "id": "1388",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "14/10/2026",
-    "t": "10:00 PM",
-    "enc": true,
-    "l": "YUZgTtyB51r7A/WaZKKmbk9sNYJ3weDQI8oyDQ1VBc+dj/sNeyMdJ4Wl36utb+ag",
-    "t1": "5JWxcTyCA1nvTpDMK4INdA==",
-    "t2": "g+7yeFJnL2UcMaYjVqJ79A==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCvOgE37HPL0B8Y67hC9jtxIpBqkBWSicHf7cKQ5+3t8A==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAOfWiopO/RtF2BquXlEc4PkBgjC8OGCBg49nY7PfdIMg==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrz8Q3t24dKBJWVnoCPkM4QcgOBhBEsw5iOYGmKRJ/8V4Bxbmct4Lauz3TaKQ9xqagI",
-    "s": [
-      {
-        "n": "cCISiq4wT/e+hf2qFrtZRA==",
-        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57tbSialqUU58dUp4ItBwq7Ec5hZhrWtjhsSuXwWT2TlPNiO5gpKePFD0WsRT2wINTHz2RxygKgllih+8jQmpQW+2vc3N/zNA78Gf45uZKPfRjj9NIjlrpiKQfvUAEuL1fs=",
-        "drm": "",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "1389": {
     "id": "1389",
     "visibility": "public",
@@ -462,22 +438,6 @@
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
-  },
-  "1411": {
-    "id": "1411",
-    "visibility": "public",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "15/10/2026",
-    "t": "12:15 AM",
-    "enc": true,
-    "l": "YUZgTtyB51r7A/WaZKKmbk9sNYJ3weDQI8oyDQ1VBc+dj/sNeyMdJ4Wl36utb+ag",
-    "t1": "lErmjjpHgmqFhWF9rKHy+Q==",
-    "t2": "Ul/730vmVVsKod/o+FIYIA==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBvui3GaZbCYXf8Huq3vOzLd3U2gwTF3gk18NsjYjFajQ==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCqB+8iKVYQfmOj+uMtYDxn/y8v6WIzRQ7o2dJ8DYMyDA==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrz8Q3t24dKBJWVnoCPkM4QcgOBhBEsw5iOYGmKRJ/8V4Bxbmct4Lauz3TaKQ9xqagI",
-    "s": []
   },
   "1412": {
     "id": "1412",
