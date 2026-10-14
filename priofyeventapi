@@ -72,7 +72,7 @@
   "1387": {
     "id": "1387",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/10/2026",
     "t": "7:45 PM",
