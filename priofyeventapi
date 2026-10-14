@@ -143,7 +143,7 @@
   "1400": {
     "id": "1400",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/10/2026",
     "t": "9:30 PM",
