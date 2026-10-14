@@ -350,7 +350,7 @@
   "1410": {
     "id": "1410",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/10/2026",
     "t": "12:15 AM",
