@@ -2,7 +2,7 @@
   "1412": {
     "id": "1412",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/10/2026",
     "t": "4:00 PM",
@@ -40,7 +40,7 @@
   "1413": {
     "id": "1413",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/10/2026",
     "t": "4:00 PM",
