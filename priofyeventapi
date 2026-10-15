@@ -463,7 +463,7 @@
   "1440": {
     "id": "1440",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "15/10/2026",
     "t": "7:40 PM",
