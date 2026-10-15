@@ -328,7 +328,7 @@
   "1441": {
     "id": "1441",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/10/2026",
     "t": "8:50 PM",
