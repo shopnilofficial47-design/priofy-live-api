@@ -891,7 +891,7 @@
   "1533": {
     "id": "1533",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "12:00 AM",
