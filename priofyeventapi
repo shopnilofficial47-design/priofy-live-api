@@ -86,7 +86,7 @@
   "1481": {
     "id": "1481",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/10/2026",
     "t": "10:30 PM",
@@ -117,7 +117,7 @@
   "1482": {
     "id": "1482",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/10/2026",
     "t": "10:30 PM",
