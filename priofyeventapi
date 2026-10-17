@@ -720,7 +720,7 @@
   "1536": {
     "id": "1536",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "9:40 PM",
