@@ -50,7 +50,7 @@
   "1488": {
     "id": "1488",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "6:30 AM",
