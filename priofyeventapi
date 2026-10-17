@@ -811,7 +811,7 @@
   "1538": {
     "id": "1538",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "6:00 PM",
@@ -888,7 +888,7 @@
   "1542": {
     "id": "1542",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "6:00 PM",
