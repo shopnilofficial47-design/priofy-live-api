@@ -130,7 +130,7 @@
   "1561": {
     "id": "1561",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "5:30 AM",
