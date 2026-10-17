@@ -485,7 +485,7 @@
   "1550": {
     "id": "1550",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "12:30 AM",
