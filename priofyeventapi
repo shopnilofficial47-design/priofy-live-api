@@ -747,7 +747,7 @@
   "1531": {
     "id": "1531",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "7:00 PM",
