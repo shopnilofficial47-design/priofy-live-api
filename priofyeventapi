@@ -86,7 +86,7 @@
   "1491": {
     "id": "1491",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -131,7 +131,7 @@
   "1492": {
     "id": "1492",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -176,7 +176,7 @@
   "1493": {
     "id": "1493",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -237,7 +237,7 @@
   "1499": {
     "id": "1499",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -253,7 +253,7 @@
   "1500": {
     "id": "1500",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -277,7 +277,7 @@
   "1501": {
     "id": "1501",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -301,7 +301,7 @@
   "1502": {
     "id": "1502",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -325,7 +325,7 @@
   "1503": {
     "id": "1503",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -349,7 +349,7 @@
   "1504": {
     "id": "1504",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -373,7 +373,7 @@
   "1505": {
     "id": "1505",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -397,7 +397,7 @@
   "1506": {
     "id": "1506",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -421,7 +421,7 @@
   "1509": {
     "id": "1509",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -437,7 +437,7 @@
   "1510": {
     "id": "1510",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -461,7 +461,7 @@
   "1511": {
     "id": "1511",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -485,7 +485,7 @@
   "1512": {
     "id": "1512",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -496,12 +496,20 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDHx16xkKwXkij/rLKB6nPq",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBxSpSay50tsLFVznnTIngN",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzvK9kjib9w4MTsZKseL9SH4Of2IbiIFF/48nDl/x9GeTZ6OBjgnWqmC8KkUjP/sE/",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "endSs3GUy4AZxV0yu04vlXg0mq8NHv6fdq5i04M7G3B+AvxC9p7vT0eB4ox0LAvA",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "1513": {
     "id": "1513",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -512,12 +520,20 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDUTaNxSeM9W0S4sGR0lnB9",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLA+O+D40gUHY8wDY6UWHSlh",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzvK9kjib9w4MTsZKseL9SH4Of2IbiIFF/48nDl/x9GeTZ6OBjgnWqmC8KkUjP/sE/",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "endSs3GUy4AZxV0yu04vlSzt9643vAAMTgNVfLQ6SgMMYygcResF7zU7t5cL4Djy",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "1514": {
     "id": "1514",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -533,7 +549,7 @@
   "1515": {
     "id": "1515",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -549,7 +565,7 @@
   "1516": {
     "id": "1516",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
@@ -565,7 +581,7 @@
   "1517": {
     "id": "1517",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/10/2026",
     "t": "8:00 PM",
