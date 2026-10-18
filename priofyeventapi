@@ -291,7 +291,7 @@
   "1583": {
     "id": "1583",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "9:30 PM",
@@ -336,7 +336,7 @@
   "1584": {
     "id": "1584",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "9:30 PM",
@@ -513,7 +513,7 @@
   "1594": {
     "id": "1594",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "9:30 PM",
