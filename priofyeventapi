@@ -49,7 +49,7 @@
   "1564": {
     "id": "1564",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "4:30 PM",
