@@ -451,7 +451,7 @@
   "1577": {
     "id": "1577",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "8:15 PM",
@@ -510,7 +510,7 @@
   "1578": {
     "id": "1578",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/10/2026",
     "t": "8:15 PM",
