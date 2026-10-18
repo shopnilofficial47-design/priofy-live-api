@@ -80,7 +80,7 @@
   "1597": {
     "id": "1597",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/10/2026",
     "t": "3:30 AM",
