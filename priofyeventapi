@@ -201,7 +201,7 @@
   "1599": {
     "id": "1599",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/10/2026",
     "t": "12:45 AM",
@@ -246,7 +246,7 @@
   "1600": {
     "id": "1600",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/10/2026",
     "t": "12:45 AM",
