@@ -50,7 +50,7 @@
   "1609": {
     "id": "1609",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/10/2026",
     "t": "6:00 PM",
