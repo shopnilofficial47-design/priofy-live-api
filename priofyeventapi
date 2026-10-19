@@ -26,7 +26,7 @@
   "1611": {
     "id": "1611",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/10/2026",
     "t": "5:00 AM",
