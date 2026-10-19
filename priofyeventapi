@@ -107,7 +107,7 @@
   "1612": {
     "id": "1612",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/10/2026",
     "t": "1:00 AM",
@@ -391,7 +391,7 @@
   "1619": {
     "id": "1619",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/10/2026",
     "t": "1:00 AM",
