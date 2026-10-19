@@ -292,30 +292,6 @@
       }
     ]
   },
-  "1620": {
-    "id": "1620",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "20/10/2026",
-    "t": "12:30 AM",
-    "enc": true,
-    "l": "9npMdHlnve7f+Hs0UyrGukWdV2OGs2Y19Qr3lQ24mXc=",
-    "t1": "NjwzkxK4PHMcT0mtdCYeAQ==",
-    "t2": "Hp2TjrW4wdHCnnwgt4xUSw==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDjUY6WCPfSf4jdWkEX0zivkP7aaXtOdUCaQYr/TCSvHw==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCThlZkVQf9y4aeiUToCUYVO7avR+YT/nG1kpvkrDFsrQ==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgf4E13aNJb46flp+qCOF1uvYvOR9jJoL/LLEgjRObrYGssJU53OS7LK3jN+gCGj6dt",
-    "s": [
-      {
-        "n": "cCISiq4wT/e+hf2qFrtZRA==",
-        "u": "endSs3GUy4AZxV0yu04vlRXGCt4qrn9RTojOPvWTBSgP358E48kJgout1IBkNMPM",
-        "drm": "",
-        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "1621": {
     "id": "1621",
     "visibility": "public",
