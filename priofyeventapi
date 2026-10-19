@@ -1,20 +1,4 @@
 {
-  "1457": {
-    "id": "1457",
-    "visibility": "unpublic",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "19/10/2026",
-    "t": "3:00 PM",
-    "enc": true,
-    "l": "0bm8eefHCFuCtMM6NNxxnPoYQE6sN+ZZWGN6Sj+u4KQ=",
-    "t1": "9pEtt1OkUeECD2UXAqDhT9SMqvpj3HjELO4WPcWkDvw=",
-    "t2": "AoFWY1LDg/zFIQFn7jpEPUR7ej13MM0NzH9Jej9YxJI=",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBztdajTHWwviMqmJ/uPKL6XO9xAAan+PsE0RgU9LEv7A==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAEoBRora4ZLbwR8K5TO9DW2tdnkBgBI4kAtfdNZPOQzw==",
-    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksX6cJ1HwS2nCXs9u6qMnJnw==",
-    "s": []
-  },
   "1601": {
     "id": "1601",
     "visibility": "public",
