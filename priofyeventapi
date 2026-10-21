@@ -34,7 +34,7 @@
   "1649": {
     "id": "1649",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/10/2026",
     "t": "6:00 PM",
