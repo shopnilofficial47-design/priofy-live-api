@@ -526,7 +526,7 @@
   "1681": {
     "id": "1681",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/10/2026",
     "t": "2:00 PM",
