@@ -114,7 +114,7 @@
   "1712": {
     "id": "1712",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "1:00 AM",
@@ -244,7 +244,7 @@
   "1717": {
     "id": "1717",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "1:00 AM",
@@ -1223,7 +1223,7 @@
   "1766": {
     "id": "1766",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "1:00 AM",
