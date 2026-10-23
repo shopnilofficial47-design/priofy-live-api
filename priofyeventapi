@@ -1112,7 +1112,7 @@
   "1760": {
     "id": "1760",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "1:45 AM",
@@ -1339,6 +1339,13 @@
         "u": "endSs3GUy4AZxV0yu04vlV7BBkvird+FD6/hc1zQzIY8ltVE5nDVETAU7N0qJ4B9",
         "drm": "",
         "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "isoO44PpOCPYSchk7ZS4x2QO1EEcRwt7u2BUZKyEJ3c=",
+        "u": "ii/alPCl8Bdc8grNlNhWqJ/eECJqPNtNDpHdDPwVgvYBkqDVARIod3iBvIoLUMJ/",
+        "drm": "",
+        "ref": "PtIdZxBDelobgI4tolZbYm2ddahOUrMMbAP7ztjEivc=",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
