@@ -578,7 +578,7 @@
   "1741": {
     "id": "1741",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "12:45 AM",
@@ -842,7 +842,7 @@
   "1753": {
     "id": "1753",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "12:45 AM",
