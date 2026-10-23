@@ -114,7 +114,7 @@
   "1711": {
     "id": "1711",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "5:00 AM",
