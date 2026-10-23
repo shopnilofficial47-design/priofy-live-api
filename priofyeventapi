@@ -157,7 +157,7 @@
   "1706": {
     "id": "1706",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/10/2026",
     "t": "6:00 PM",
