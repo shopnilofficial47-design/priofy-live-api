@@ -31,65 +31,6 @@
     "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4kswL26X5A6d17Lq0uciWYCdA==",
     "s": []
   },
-  "1706": {
-    "id": "1706",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "23/10/2026",
-    "t": "6:00 PM",
-    "enc": true,
-    "l": "BEKY1xGdFiBKItQAXuHRRd29kCeQJXn1conbVEZunXtK12p56Z6tsBvYDYQgHfh1bAQu52uKvorWVlC2XEAWdA==",
-    "t1": "dLvbbPP2qptjfLVbvtOQEQ==",
-    "t2": "BLk+jxaT7y2FVDi27otb4w==",
-    "lg1": "hImW7VMhSI2+Xo/0+1u4zPfqsjxLEYo9PZtV7QZGepoYSDww1/SKfmnSSZeBKTEK+b2dHzM8t4/Ig2lblmqhIVN0EnT+ydiCFBJWgflhXGw=",
-    "lg2": "GVan2LJrmdc7JyMM3ZNXYP/xQQbI3wGMI11SBiVI1pi5wRGdx6+LkR+UPk+pWykfn1Hr1bgjKmGA4PZvA9wrLN6H2xjDiBtmW71Vxxy8idjVelJQRVvdGw0GhAGimuse94CDeP9g8lUNhtwz9wk0hA==",
-    "llg": "1+489wRgSQfp5GgzJXZHVtP6RZItPai1bNpBgabiy8MTKT19D7V3hwsaEAfFNla3GW9LNnuUvQa7oPF8PvZ9yg==",
-    "s": [
-      {
-        "n": "PqCPPxVlGqQU1sE06P/Lag==",
-        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWnI1GkifFxjaTasBtTQ5AXBWKFBZQrCPZK/FOrjd1Ia/pe/nlTfET2Ay+MsTClr6nWq89hLsL5FokDL/iD+SZPm3veuteV6F1XE/Gt4xQx9A",
-        "drm": "HkXxXiCWWjYCVvmDU+/HPF7KtmJ9seVUWvTiV+bNrXheyanhJ9/TVweFKkTywI9lzy8KH0jctuOl3DJR4Gr3rc2VdZftu3iNDptuWYJlqIE=",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "4Za/RJbOFw2R3rQS83D+cA==",
-        "u": "qjND35QSVc/eVn740HaI1UmO0KPBp1qVBBuIkkmoI+rSs82R1KS5VQi2li6mB9J/7pNZGxE2HNSO+AyOOaVBAg075UXt+LEJiOTDyjbz6o2YwAmhmeFMReqwQP+GvxUiUIrgzEA7FG6x8oMV2X/IXxpPIExJI9SbFNVIl9S7ngzUOrQ4jGGbXl8o77SKoSpd",
-        "drm": "HkXxXiCWWjYCVvmDU+/HPF7KtmJ9seVUWvTiV+bNrXheyanhJ9/TVweFKkTywI9lzy8KH0jctuOl3DJR4Gr3rc2VdZftu3iNDptuWYJlqIE=",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "kT3ZoLzZE0KcrCYoyn9eVw==",
-        "u": "pQ7lzh3dn51Qb6UvXnlLfjtxhBpUFcAm+TMDS64TFs8TalLpHgrrizJpk7ZcXMsS6uFgrTCjWYyaVwEUmYO/ob1BLAMxNVtDhGnviuoc7hFWZ+FFcFPkwuCd5fEw9iOXkGgzeKPdPkH9bKvfotSF293VegCJ6zyQmTlEwrZOuPt9qZ2eyxzvqmQCJBE0mEwucfvxhOaIjh66ceU67K9qqj2hBXQDDPSKuUG9ZTQyI4MogzBRqAAMofMDMEOxDGqOAHW9ZDfgC/ByRjItTYdIQJYOqsp23xGG1tylbN2QSxk=",
-        "drm": "",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "m/W7sQAnqPc7QpGKqP3FTg==",
-        "u": "hSCbjIDidlzAHeaRaW0HobncpkRfUK7UPv7HU2q6Vv6Wt4lzJyp6acHDUXL6G/eHIXOscDKZ1wvU1BOZuriuGQ==",
-        "drm": "",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "zIuiof2PadZbggMC5sMlNg==",
-        "u": "c8WCnoF31cSL3SWJWNYbe/MUQY06ugeXRl4ntXaiMQtE+Orokw0W8SIdWbrps6ZirenxsBksJ2IxjSxKhyuaIBxVZxzxwtvUaUcXOqnHCjw=",
-        "drm": "",
-        "ref": "OMieEgscudN/jplBXGyglDvWxyTgD7DAOKsrEqUIgO4=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "SN4CAjbiEvG0L3cTIp6RLg==",
-        "u": "c9b28uWbCnYyMNxJ5MQq8IJl+mXHCudJwwF0GVg20ouq5aqRdz7zv2T0A6AHTC772JlNW/y5ouXXPDfE3EfOioD48MHoQ9FTp9tagcVNLbx8Abdst/+plqM1qOuSF+NwBRlivsgjUPlOszigI7A1mA==",
-        "drm": "",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "1707": {
     "id": "1707",
     "visibility": "public",
