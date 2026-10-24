@@ -50,7 +50,7 @@
   "1778": {
     "id": "1778",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/10/2026",
     "t": "2:00 AM",
