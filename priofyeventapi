@@ -1012,7 +1012,7 @@
   "1767": {
     "id": "1767",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "6:00 PM",
@@ -1103,7 +1103,7 @@
   "1771": {
     "id": "1771",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "6:00 PM",
