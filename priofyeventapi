@@ -477,7 +477,7 @@
   "1775": {
     "id": "1775",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "11:30 PM",
