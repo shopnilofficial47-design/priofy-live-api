@@ -71,54 +71,6 @@
     "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksQjoK3HLeruXpA+wWxrF8IQ==",
     "s": []
   },
-  "1759": {
-    "id": "1759",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "24/10/2026",
-    "t": "10:45 PM",
-    "enc": true,
-    "l": "yOzQyrklvq+D3KOIBnJE5GWuI2iaL8TgBHI9Z9shPfI=",
-    "t1": "TZ+1q6bSdv9WNL4Wahxehg==",
-    "t2": "p6jd+LdrWwgXpGhO4vmkyg==",
-    "lg1": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1KsZ+2qK6gBDhjVTBRjWqLJJjWHmBVkSP/nHinAEWPDfKWtCgceEKH4R+5bJmLUQqYlLtD75biWnB+k/2/97jb009O63cMqvKqRYQTmXpxVRYHi1HLP1OeJHfxmWTinL3",
-    "lg2": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1KsZ+2qK6gBDhjVTBRjWqLJJjWHmBVkSP/nHinAEWPDfKWtCgceEKH4R+5bJmLUQqYlLtD75biWnB+k/2/97jb+KWtM+dJECd6p6x80aRwfHXTctYeT3ZWcyL7UCD2K4T",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfAuUbHZnf4LLu3N13CyztVP07p7M7axKWRVeXBB2EmOHfwUmLLfaGtZAURuY5SBXx",
-    "s": [
-      {
-        "n": "zO5f/5UR987LKmTsCJAvow==",
-        "u": "endSs3GUy4AZxV0yu04vlV9hjDtWAeU802drf8YLMqmXsWtuwGceK/IKgcYmzhYS",
-        "drm": "",
-        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
-  "1762": {
-    "id": "1762",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "24/10/2026",
-    "t": "11:00 PM",
-    "enc": true,
-    "l": "x4oTF6iihet1zf/izLYOOcBx2fvnuFF1Fy0U1zxDZLI=",
-    "t1": "qDSzhcuAAdM6cgATVIAT7A==",
-    "t2": "KxBnIDtIdR32Yxc2ZolIpQ==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDUVgxOT3yhSIPNIgz8iToB1g9f/WfnaidopEmLqUE+QQ==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAgqKmXW84KGgIo4WVUsGrvKAUu0/yiRkj+ho3N+DAYPg==",
-    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ks+FhI1AoyvccbEBhwaVRh3w==",
-    "s": [
-      {
-        "n": "zO5f/5UR987LKmTsCJAvow==",
-        "u": "endSs3GUy4AZxV0yu04vlSSxowUntSpB1bpCsiXsl+B83pej/Kzv92RsYiWHuVJM",
-        "drm": "",
-        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "1775": {
     "id": "1775",
     "visibility": "public",
@@ -933,6 +885,20 @@
       {
         "n": "3Vk4b6l6AqQLKhnIL4rWaw==",
         "u": "KI3JhPgroEuj/NiIMdN2zOMBUviPj+9Zw8Wi6ewzoglNaT83Xb9gfgU0U0CiAV63xq731LlBaGTOCnQWR45f6rbL0NPjOlK40ynaanZXNXkfnx8UOUYhO048bHrower0pYCzDiLYa+ceYZi4ltMD0w==",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "FMCxkqHb0XeqBqBtawrl+A==",
+        "u": "pQ7lzh3dn51Qb6UvXnlLfkjjQHUY2ulYLNTSlUgfjUg7XEwGUk+4Fi1Ozv1GlOXHeQ7J4iCjVP8BSIVFdNzFS2F7DQkwjwOzLhajs1RSwWqColg4207x8LVWKStODN4Mtpm1i7kpuzTsrOWgkfVpsfHLllxFLxEe6YlqTp1YgKSD95JXKRzuPt6Oq1gt+cmE0bbUHVq91VaH8ltR+c7hGlKZ+jkrad39tBROA9VVDj4dokKMuobKzU+f6VCbYxu+JPYEMn2TVXOAl9S5x9PCoA3KK2/uYM0gPYCw7HnLvJc=",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "P6NwasznfcQltE2MYP53lw==",
+        "u": "pQ7lzh3dn51Qb6UvXnlLfhPE35qi4qk9mG0V1M5+YPeFnd11kPpfsyCR4h82GQsP3zjwSQ+tybHfxTAGnkHGZ9TgKh1h81Kf9poUU+J4CUA1Mx8ZYqveqolzibbssN9T1JDUdyS58JulSlb2dROhTY+bURJ22oltHg9D15zWLalelUjkVPl59Hd8F4scKnjp65CFnvI8aXTkpVbyQhPKVJ73igUBoaqF2fZzTgJuLfO4I7V8MuIPXGStKXWiM7gWvMLao4ImUvhrsS58Lo/ud+EfCA+QkoNa4TyKTDUppcQ=",
         "drm": "",
         "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
