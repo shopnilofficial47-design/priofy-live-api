@@ -616,7 +616,7 @@
   "1750": {
     "id": "1750",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "5:00 PM",
@@ -647,7 +647,7 @@
   "1751": {
     "id": "1751",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "5:00 PM",
@@ -678,7 +678,7 @@
   "1752": {
     "id": "1752",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/10/2026",
     "t": "5:00 PM",
