@@ -607,7 +607,7 @@
   "1813": {
     "id": "1813",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/10/2026",
     "t": "7:30 PM",
@@ -666,7 +666,7 @@
   "1814": {
     "id": "1814",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/10/2026",
     "t": "7:30 PM",
