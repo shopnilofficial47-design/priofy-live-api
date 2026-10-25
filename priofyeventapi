@@ -421,7 +421,7 @@
   "1812": {
     "id": "1812",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/10/2026",
     "t": "5:15 PM",
