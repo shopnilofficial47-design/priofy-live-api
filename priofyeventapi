@@ -335,7 +335,7 @@
   "1807": {
     "id": "1807",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/10/2026",
     "t": "5:30 PM",
