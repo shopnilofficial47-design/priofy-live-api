@@ -685,7 +685,7 @@
   "1879": {
     "id": "1879",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "27/10/2026",
     "t": "2:00 AM",
