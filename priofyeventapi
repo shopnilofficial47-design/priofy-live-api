@@ -572,7 +572,7 @@
   "1888": {
     "id": "1888",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "12:15 AM",
@@ -656,7 +656,7 @@
   "1891": {
     "id": "1891",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "12:15 AM",
