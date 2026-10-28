@@ -5577,7 +5577,7 @@
   "2244": {
     "id": "2244",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "5:15 PM",
