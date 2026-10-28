@@ -98,7 +98,7 @@
   "1929": {
     "id": "1929",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "4:30 AM",
@@ -136,7 +136,7 @@
   "1930": {
     "id": "1930",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "4:30 AM",
@@ -188,7 +188,7 @@
   "1931": {
     "id": "1931",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "4:30 AM",
