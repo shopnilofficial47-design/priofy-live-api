@@ -352,7 +352,7 @@
   "1921": {
     "id": "1921",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "12:15 AM",
@@ -383,7 +383,7 @@
   "1922": {
     "id": "1922",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "12:15 AM",
