@@ -258,7 +258,7 @@
   "1915": {
     "id": "1915",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:30 PM",
@@ -331,7 +331,7 @@
   "1916": {
     "id": "1916",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:30 PM",
@@ -383,7 +383,7 @@
   "1917": {
     "id": "1917",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:30 PM",
