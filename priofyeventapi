@@ -106,7 +106,7 @@
   "1909": {
     "id": "1909",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:00 PM",
@@ -144,7 +144,7 @@
   "1910": {
     "id": "1910",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:00 PM",
@@ -175,7 +175,7 @@
   "1911": {
     "id": "1911",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:00 PM",
@@ -213,7 +213,7 @@
   "1912": {
     "id": "1912",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "11:00 PM",
