@@ -54,7 +54,7 @@
   "1892": {
     "id": "1892",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "6:15 PM",
@@ -113,7 +113,7 @@
   "1893": {
     "id": "1893",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "6:15 PM",
