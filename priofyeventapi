@@ -525,7 +525,7 @@
   "1938": {
     "id": "1938",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "2:00 AM",
