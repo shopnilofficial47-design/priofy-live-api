@@ -258,7 +258,7 @@
   "1918": {
     "id": "1918",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/10/2026",
     "t": "9:30 AM",
