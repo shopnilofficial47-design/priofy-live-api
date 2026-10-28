@@ -290,7 +290,7 @@
   "1947": {
     "id": "1947",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": true,
     "d": "29/10/2026",
     "t": "5:30 AM",
