@@ -272,7 +272,7 @@
   "1948": {
     "id": "1948",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "9:30 AM",
