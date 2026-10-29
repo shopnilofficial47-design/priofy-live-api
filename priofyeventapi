@@ -18,7 +18,7 @@
   "1946": {
     "id": "1946",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "8:35 PM",
