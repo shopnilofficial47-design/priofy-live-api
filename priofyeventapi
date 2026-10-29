@@ -161,7 +161,7 @@
   "1949": {
     "id": "1949",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "10:40 AM",
