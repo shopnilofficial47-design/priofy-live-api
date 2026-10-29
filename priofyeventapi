@@ -5004,7 +5004,7 @@
   "2246": {
     "id": "2246",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "5:15 PM",
