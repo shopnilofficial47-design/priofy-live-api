@@ -33,7 +33,7 @@
   "1924": {
     "id": "1924",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "4:00 PM",
@@ -71,7 +71,7 @@
   "1925": {
     "id": "1925",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "29/10/2026",
     "t": "4:00 PM",
