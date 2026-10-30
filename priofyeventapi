@@ -113,7 +113,7 @@
   "1966": {
     "id": "1966",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "30/10/2026",
     "t": "9:30 AM",
@@ -4942,7 +4942,7 @@
   "2283": {
     "id": "2283",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "30/10/2026",
     "t": "9:30 AM",
