@@ -389,7 +389,7 @@
   "1983": {
     "id": "1983",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "2:00 AM",
@@ -1339,7 +1339,7 @@
   "2029": {
     "id": "2029",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "2:00 AM",
