@@ -1215,7 +1215,7 @@
   "2024": {
     "id": "2024",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "2:15 AM",
