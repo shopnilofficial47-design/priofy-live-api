@@ -4456,7 +4456,7 @@
   "2240": {
     "id": "2240",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "30/10/2026",
     "t": "8:00 PM",
