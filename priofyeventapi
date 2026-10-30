@@ -259,7 +259,7 @@
   "1970": {
     "id": "1970",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "30/10/2026",
     "t": "2:30 PM",
