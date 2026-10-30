@@ -744,7 +744,7 @@
   "2006": {
     "id": "2006",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "12:00 AM",
@@ -1064,7 +1064,7 @@
   "2026": {
     "id": "2026",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "12:00 AM",
