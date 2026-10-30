@@ -232,7 +232,7 @@
   "1975": {
     "id": "1975",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "5:00 AM",
