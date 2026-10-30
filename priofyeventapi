@@ -856,7 +856,7 @@
   "2009": {
     "id": "2009",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "1:30 AM",
