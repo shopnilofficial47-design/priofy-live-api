@@ -4732,7 +4732,7 @@
   "2262": {
     "id": "2262",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "30/10/2026",
     "t": "11:00 PM",
