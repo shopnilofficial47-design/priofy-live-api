@@ -1117,7 +1117,7 @@
   "2030": {
     "id": "2030",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "7:00 PM",
@@ -1229,7 +1229,7 @@
   "2033": {
     "id": "2033",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "7:00 PM",
@@ -4822,7 +4822,7 @@
   "2264": {
     "id": "2264",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "7:00 PM",
