@@ -1128,7 +1128,7 @@
   "2027": {
     "id": "2027",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "7:30 PM",
@@ -2205,22 +2205,6 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAP+peaiPJab5xeDz0N03XRoiP5wkiAeNZMqL5Z/B8rAQ==",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDYYSmkUrovyl0L+wa1SBLM8zar8sg5/S0n4lcaL3zOig==",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfOEhbAffOatD6iFR9Q9dS0r1peT0bPOwznht1Ec8OBBgat2NsW9TvjhlGWNn/Y6dL",
-    "s": []
-  },
-  "2089": {
-    "id": "2089",
-    "visibility": "public",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "01/11/2026",
-    "t": "9:30 AM",
-    "enc": true,
-    "l": "PQqQoyiOSjqwLZ7fi3t3WpTzaVpzw0gVT5CbuH0h4/NbretbXu8tfgM0yR+a+0d7WbwoUvNfEkArRbjYKO1TOIrJgTJlCxfaNBC0e4EN0k4=",
-    "t1": "hqH4/CqYnMc9TxDtX347Sw==",
-    "t2": "atl1V+pY4qHIveh8j+Stow==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLB4LNEGrssAPCGLTp6dkSu6RUUaQlRhEkbForhesG5GPA==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAk2O7CiIG5kV7pLxvTTGf15lT9qOdgLvFk3KcAF25xww==",
-    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksO4TppcBBEsASluU0O0WMPQ==",
     "s": []
   },
   "2090": {
