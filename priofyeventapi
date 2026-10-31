@@ -897,7 +897,7 @@
   "2072": {
     "id": "2072",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "12:00 AM",
@@ -1063,7 +1063,7 @@
   "2081": {
     "id": "2081",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "12:00 AM",
@@ -1087,7 +1087,7 @@
   "2082": {
     "id": "2082",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "12:00 AM",
@@ -1111,7 +1111,7 @@
   "2083": {
     "id": "2083",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "12:00 AM",
