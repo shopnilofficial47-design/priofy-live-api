@@ -4182,7 +4182,7 @@
   "2247": {
     "id": "2247",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "12:45 PM",
