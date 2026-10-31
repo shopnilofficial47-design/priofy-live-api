@@ -767,7 +767,15 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBj9sHtCIk2xD5vllfTDuJr",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBZm16v6YHC5vYIZ+xjlc+Q",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzvK9kjib9w4MTsZKseL9SH4Of2IbiIFF/48nDl/x9GeTZ6OBjgnWqmC8KkUjP/sE/",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "endSs3GUy4AZxV0yu04vlbHFn5esYPY8T/3GgwjmXYHeIqU3nuNdyFiYnaP2eouj",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2004": {
     "id": "2004",
@@ -783,7 +791,15 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBvGvWYULGsnCW0u0wALIQc",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDY0NhR8FCKknjMLd7BeHxI",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzvK9kjib9w4MTsZKseL9SH4Of2IbiIFF/48nDl/x9GeTZ6OBjgnWqmC8KkUjP/sE/",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "endSs3GUy4AZxV0yu04vlcGGdkhv2HK3xFRN6US7kS+DdQNmGYZxNg0Jn/PYuiHg",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2005": {
     "id": "2005",
@@ -1375,7 +1391,7 @@
   "2031": {
     "id": "2031",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "9:15 PM",
@@ -1407,7 +1423,7 @@
   "2034": {
     "id": "2034",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "9:15 PM",
