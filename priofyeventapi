@@ -170,7 +170,7 @@
   "1973": {
     "id": "1973",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:15 AM",
@@ -201,7 +201,7 @@
   "1974": {
     "id": "1974",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:15 AM",
