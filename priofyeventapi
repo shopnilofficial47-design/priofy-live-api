@@ -4526,44 +4526,6 @@
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzUf+CBTen/EaE7q3Nmihbe+/YyVQSY8fRO9Me+h4NXHdXTAX5IAgx6wCwkJbwjiD7",
     "s": []
   },
-  "2293": {
-    "id": "2293",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "31/10/2026",
-    "t": "10:25 AM",
-    "enc": true,
-    "l": "i5Zg7IP/kspStUBnwvF0vJNbdHoryhMzGi78cjP56DQw6uLVPBPIVdDhMhfyinbI",
-    "t1": "STVoKmyTCIqSxRrKgMS2BA==",
-    "t2": "LiTIjTPLJ4upyvEyrsUbAQ==",
-    "lg1": "",
-    "lg2": "",
-    "llg": "+0KIblQGfg5MxXhGykt2Yyp5ucDE40WuhNVfC4aRia2wcI0hQZzcSQLZ+lSdt/qjzfCl9FXK/S+abFC7FEW1jA==",
-    "s": [
-      {
-        "n": "zIuiof2PadZbggMC5sMlNg==",
-        "u": "c8WCnoF31cSL3SWJWNYbe/MUQY06ugeXRl4ntXaiMQtE+Orokw0W8SIdWbrps6ZiHKWb1Maqp/Q/up2GiUacCN1sSj3Z4TKVduBTdyV1od4=",
-        "ref": "OMieEgscudN/jplBXGyglDvWxyTgD7DAOKsrEqUIgO4=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms=",
-        "drm": ""
-      },
-      {
-        "n": "4Za/RJbOFw2R3rQS83D+cA==",
-        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWiRVwGI7yWB0RBXBpD3uS7xhmFtU3BXf/lF1nh+22leus0TpkoPeSkWXDwgJ78JGB09Vzus+7xahDIfg3+2++uL2IN4totDVstki4VGtf3/G",
-        "drm": "JuTIINMFQ+mo4RgSpUb9bfk8mgcRQZoFfHJND+XtrKer8az3289KQGCjqBVo35Gqfdm4cPqbS/bn9bIe+uHI01+0Pfepdnlz4KGZ3xiNmwM=",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "PqCPPxVlGqQU1sE06P/Lag==",
-        "u": "2+1u0Q12HwjU60l2KP/S2/dAnTzEcegp7SmbHT2jY5ehPgdQy3PNzxLWuDeRIvAZzK4Tg+UlNiibjrTlgJ4ihhKLSvD+L+Wy3FSCpPk9ePyfR64De9557/r2mZa186o63d3BvMkyGZFI4AVaPhvM67HZV8Dm+P14y5+wKDa27/0wtCG7byt2YLOXa45mOaYE",
-        "drm": "JuTIINMFQ+mo4RgSpUb9bfk8mgcRQZoFfHJND+XtrKer8az3289KQGCjqBVo35Gqfdm4cPqbS/bn9bIe+uHI01+0Pfepdnlz4KGZ3xiNmwM=",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "2294": {
     "id": "2294",
     "visibility": "public",
@@ -4584,6 +4546,20 @@
         "u": "c8WCnoF31cSL3SWJWNYbe/MUQY06ugeXRl4ntXaiMQtE+Orokw0W8SIdWbrps6ZiHKWb1Maqp/Q/up2GiUacCN1sSj3Z4TKVduBTdyV1od4=",
         "drm": "",
         "ref": "OMieEgscudN/jplBXGyglDvWxyTgD7DAOKsrEqUIgO4=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "PqCPPxVlGqQU1sE06P/Lag==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWiz1hNXn3qT2mOixqCbON1qiukLIHCam//kl56TnmpZyhXpwmDR2j5rBVjvGjkkljksZRcXHSKodyj1BF1VKdpkydbeiZXHZ0js+jKBEx+zS",
+        "drm": "jPKOw4CnjKMQUdzbXOwjuvKTPVcu5r6iGNU9pdELodSi6EQbzL+tfcOxoPJddeSE4W3puipw49+0Zouq3e7sY6dODLWi2M9EiyCowcYhFRU=",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "4Za/RJbOFw2R3rQS83D+cA==",
+        "u": "2+1u0Q12HwjU60l2KP/S2/dAnTzEcegp7SmbHT2jY5ehPgdQy3PNzxLWuDeRIvAZzK4Tg+UlNiibjrTlgJ4ihrZb7vUH5zkWLDZJaO4Zv1V2sKJBZUO7VxnUSz/Ay0gWjUJgKgLTfk73sD7CRocf+DeSa1U8W0up8xN0OZSvBFPFqx2haL2y/QThmEEuYTXw",
+        "drm": "jPKOw4CnjKMQUdzbXOwjuvKTPVcu5r6iGNU9pdELodSi6EQbzL+tfcOxoPJddeSE4W3puipw49+0Zouq3e7sY6dODLWi2M9EiyCowcYhFRU=",
+        "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
