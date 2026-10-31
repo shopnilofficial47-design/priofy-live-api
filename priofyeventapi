@@ -1098,7 +1098,7 @@
   "2086": {
     "id": "2086",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "3:00 AM",
@@ -1114,7 +1114,7 @@
   "2087": {
     "id": "2087",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "3:00 AM",
