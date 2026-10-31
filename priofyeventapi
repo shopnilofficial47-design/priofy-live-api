@@ -303,7 +303,7 @@
   "2022": {
     "id": "2022",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:45 PM",
@@ -319,7 +319,7 @@
   "2023": {
     "id": "2023",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:45 PM",
