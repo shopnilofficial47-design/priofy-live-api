@@ -814,7 +814,7 @@
   "2010": {
     "id": "2010",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:30 PM",
@@ -859,7 +859,7 @@
   "2011": {
     "id": "2011",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:30 PM",
@@ -904,7 +904,7 @@
   "2012": {
     "id": "2012",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:30 PM",
@@ -956,7 +956,7 @@
   "2013": {
     "id": "2013",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:30 PM",
@@ -1008,7 +1008,7 @@
   "2014": {
     "id": "2014",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:30 PM",
