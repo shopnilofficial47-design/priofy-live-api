@@ -18,7 +18,7 @@
   "1982": {
     "id": "1982",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:30 PM",
@@ -105,7 +105,7 @@
   "2015": {
     "id": "2015",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:30 PM",
@@ -331,7 +331,7 @@
   "2032": {
     "id": "2032",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:30 PM",
@@ -383,7 +383,7 @@
   "2035": {
     "id": "2035",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "11:30 PM",
