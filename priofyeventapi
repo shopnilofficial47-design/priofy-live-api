@@ -4538,7 +4538,7 @@
   "2292": {
     "id": "2292",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "9:30 AM",
