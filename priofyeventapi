@@ -2,7 +2,7 @@
   "2041": {
     "id": "2041",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
@@ -89,7 +89,7 @@
   "2045": {
     "id": "2045",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
@@ -495,7 +495,7 @@
   "2064": {
     "id": "2064",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
@@ -526,7 +526,7 @@
   "2065": {
     "id": "2065",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
@@ -698,7 +698,7 @@
   "2073": {
     "id": "2073",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
@@ -819,7 +819,7 @@
   "2077": {
     "id": "2077",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:00 AM",
