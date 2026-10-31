@@ -91,7 +91,7 @@
   "1976": {
     "id": "1976",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -337,7 +337,7 @@
   "1984": {
     "id": "1984",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -375,7 +375,7 @@
   "1985": {
     "id": "1985",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -406,7 +406,7 @@
   "1986": {
     "id": "1986",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -579,7 +579,7 @@
   "1995": {
     "id": "1995",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -610,7 +610,7 @@
   "1996": {
     "id": "1996",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
@@ -634,7 +634,7 @@
   "1997": {
     "id": "1997",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:30 PM",
