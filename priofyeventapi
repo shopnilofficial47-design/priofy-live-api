@@ -651,7 +651,7 @@
   "2016": {
     "id": "2016",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:00 PM",
@@ -682,7 +682,7 @@
   "2017": {
     "id": "2017",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:00 PM",
@@ -713,7 +713,7 @@
   "2018": {
     "id": "2018",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:00 PM",
