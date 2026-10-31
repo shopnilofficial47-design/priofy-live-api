@@ -207,7 +207,7 @@
   "2048": {
     "id": "2048",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "1:45 AM",
@@ -245,7 +245,7 @@
   "2049": {
     "id": "2049",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "1:45 AM",
@@ -261,7 +261,7 @@
   "2050": {
     "id": "2050",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "1:45 AM",
@@ -420,7 +420,7 @@
   "2059": {
     "id": "2059",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "1:45 AM",
