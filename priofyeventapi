@@ -4619,7 +4619,7 @@
   "2296": {
     "id": "2296",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "1:10 PM",
