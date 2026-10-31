@@ -1141,7 +1141,7 @@
   "2019": {
     "id": "2019",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:00 PM",
@@ -4628,7 +4628,7 @@
   "2235": {
     "id": "2235",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "8:00 PM",
