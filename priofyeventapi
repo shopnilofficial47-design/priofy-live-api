@@ -4607,7 +4607,7 @@
   "2289": {
     "id": "2289",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "6:45 AM",
