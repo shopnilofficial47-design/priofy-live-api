@@ -1214,7 +1214,7 @@
   "2021": {
     "id": "2021",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "9:30 PM",
@@ -1277,7 +1277,7 @@
   "2025": {
     "id": "2025",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "31/10/2026",
     "t": "9:30 PM",
