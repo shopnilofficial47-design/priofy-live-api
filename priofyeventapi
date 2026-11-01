@@ -492,7 +492,7 @@
   "2071": {
     "id": "2071",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "9:30 PM",
