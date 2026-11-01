@@ -380,7 +380,7 @@
   "2102": {
     "id": "2102",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "02/11/2026",
     "t": "1:00 AM",
