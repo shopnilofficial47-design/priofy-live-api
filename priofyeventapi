@@ -3040,7 +3040,7 @@
   "2266": {
     "id": "2266",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "4:30 PM",
