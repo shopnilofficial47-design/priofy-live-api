@@ -257,7 +257,7 @@
   "2066": {
     "id": "2066",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "5:15 PM",
@@ -2870,7 +2870,7 @@
   "2249": {
     "id": "2249",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "5:15 PM",
