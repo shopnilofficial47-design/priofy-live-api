@@ -418,7 +418,7 @@
   "2091": {
     "id": "2091",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "01/11/2026",
     "t": "2:10 PM",
