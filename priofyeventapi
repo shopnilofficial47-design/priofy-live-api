@@ -130,7 +130,7 @@
   "2120": {
     "id": "2120",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "02/11/2026",
     "t": "2:10 PM",
