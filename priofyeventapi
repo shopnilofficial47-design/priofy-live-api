@@ -1610,7 +1610,7 @@
   "2252": {
     "id": "2252",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "03/11/2026",
     "t": "12:45 PM",
