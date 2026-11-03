@@ -2,7 +2,7 @@
   "2145": {
     "id": "2145",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -75,7 +75,7 @@
   "2146": {
     "id": "2146",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -141,7 +141,7 @@
   "2147": {
     "id": "2147",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -200,7 +200,7 @@
   "2148": {
     "id": "2148",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -259,7 +259,7 @@
   "2149": {
     "id": "2149",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -325,7 +325,7 @@
   "2150": {
     "id": "2150",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -391,7 +391,7 @@
   "2151": {
     "id": "2151",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -890,7 +890,7 @@
   "2172": {
     "id": "2172",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
@@ -935,7 +935,7 @@
   "2173": {
     "id": "2173",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:00 AM",
