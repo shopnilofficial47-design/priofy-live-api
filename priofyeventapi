@@ -342,7 +342,7 @@
   "2154": {
     "id": "2154",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "12:15 AM",
