@@ -306,7 +306,7 @@
   "2177": {
     "id": "2177",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "2:10 PM",
