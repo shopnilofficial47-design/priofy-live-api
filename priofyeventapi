@@ -200,7 +200,7 @@
   "2176": {
     "id": "2176",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "04/11/2026",
     "t": "8:00 AM",
