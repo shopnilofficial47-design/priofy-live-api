@@ -596,7 +596,7 @@
   "2229": {
     "id": "2229",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "05/11/2026",
     "t": "10:40 AM",
