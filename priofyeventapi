@@ -734,7 +734,7 @@
   "2254": {
     "id": "2254",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "05/11/2026",
     "t": "12:45 PM",
