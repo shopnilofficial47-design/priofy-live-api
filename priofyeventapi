@@ -289,22 +289,6 @@
       }
     ]
   },
-  "2193": {
-    "id": "2193",
-    "visibility": "public",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "05/11/2026",
-    "t": "11:45 PM",
-    "enc": true,
-    "l": "ycTC+xvHU//Yo45NMJzHJCVRJ3IlU38Oq8ZG60yDR2c=",
-    "t1": "kc+MUmRm+3IfVP0AigLQVw==",
-    "t2": "ceoY9DFVrVHGq/FlMd3H9w==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBukq9HPLAdCXP7lBhLoLSy3TCuHL8SzjsgQWgA3GXUXw==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBxcqgJXBSRH9b5LCKXoJpC9HQ+sZ+X6Hb9usRkJnf6lg==",
-    "llg": "wHJD0m10LvcNONYHYOa8OgM52+7E1w9WUC05dV6SCdi++NhVHzLDwVccTKxLev5ykuB45AndrOBdIvigitkOnVMmRBAszOdrFaENrR4w6bTe0yCrIl0SxgLqPnrE+oHZYRYyh6+rmHrQ+sPbIL3I+vv9OXrhRqsb1hahwda/d/s=",
-    "s": []
-  },
   "2210": {
     "id": "2210",
     "visibility": "public",
