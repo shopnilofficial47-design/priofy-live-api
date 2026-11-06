@@ -168,7 +168,7 @@
   "2333": {
     "id": "2333",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "06/11/2026",
     "t": "11:00 AM",
@@ -3464,7 +3464,7 @@
   "2542": {
     "id": "2542",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "06/11/2026",
     "t": "11:00 AM",
@@ -3480,7 +3480,7 @@
   "2543": {
     "id": "2543",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "06/11/2026",
     "t": "11:00 AM",
