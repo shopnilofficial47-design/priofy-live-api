@@ -224,7 +224,7 @@
   "2342": {
     "id": "2342",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "1:45 AM",
@@ -815,7 +815,7 @@
   "2378": {
     "id": "2378",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "1:45 AM",
@@ -1091,7 +1091,7 @@
   "2389": {
     "id": "2389",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "1:45 AM",
