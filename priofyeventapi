@@ -114,7 +114,7 @@
   "2331": {
     "id": "2331",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "06/11/2026",
     "t": "11:00 PM",
