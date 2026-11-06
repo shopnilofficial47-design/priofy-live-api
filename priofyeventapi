@@ -276,7 +276,7 @@
   "2341": {
     "id": "2341",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "1:30 AM",
@@ -908,7 +908,7 @@
   "2380": {
     "id": "2380",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "1:30 AM",
