@@ -1150,7 +1150,7 @@
   "2390": {
     "id": "2390",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "8:00 PM",
@@ -1209,7 +1209,7 @@
   "2391": {
     "id": "2391",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "8:00 PM",
