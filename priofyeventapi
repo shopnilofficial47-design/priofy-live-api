@@ -395,7 +395,7 @@
   "2395": {
     "id": "2395",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:45 PM",
