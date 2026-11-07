@@ -132,7 +132,7 @@
   "2340": {
     "id": "2340",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:30 PM",
@@ -263,7 +263,7 @@
   "2385": {
     "id": "2385",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:30 PM",
@@ -546,7 +546,7 @@
   "2404": {
     "id": "2404",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:30 PM",
@@ -650,7 +650,7 @@
   "2408": {
     "id": "2408",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:30 PM",
@@ -666,7 +666,7 @@
   "2409": {
     "id": "2409",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:30 PM",
