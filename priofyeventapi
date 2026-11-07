@@ -1215,7 +1215,7 @@
   "2403": {
     "id": "2403",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:15 PM",
@@ -1247,7 +1247,7 @@
   "2407": {
     "id": "2407",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:15 PM",
