@@ -742,7 +742,7 @@
   "2392": {
     "id": "2392",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "11:00 PM",
