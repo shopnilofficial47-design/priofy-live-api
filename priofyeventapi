@@ -470,22 +470,6 @@
       }
     ]
   },
-  "2400": {
-    "id": "2400",
-    "visibility": "public",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "07/11/2026",
-    "t": "11:30 PM",
-    "enc": true,
-    "l": "pcSrBU4LChw5IvgG2pWujsARLIEA/H4qaFdojKzzCSQ=",
-    "t1": "Y4SE+kwmn+XQRkp+s5jN7A==",
-    "t2": "3YCHnwjiOGZocI2biYZYzQ==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAw79H3k7siyUDzFQ9WNey0OEPTIa3K8b22SmBiRrSmSQ==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCvOgE37HPL0B8Y67hC9jtxIpBqkBWSicHf7cKQ5+3t8A==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgf7yd1jPKhUrPLLPsV3mpVc9pviLXSs47ItgwsBWoAFmGEBWk+kxvKAw2aMmJIUSWN",
-    "s": []
-  },
   "2403": {
     "id": "2403",
     "visibility": "public",
