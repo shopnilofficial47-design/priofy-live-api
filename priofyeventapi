@@ -1259,7 +1259,7 @@
   "2414": {
     "id": "2414",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "8:00 AM",
