@@ -132,7 +132,7 @@
   "2338": {
     "id": "2338",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -212,7 +212,7 @@
   "2339": {
     "id": "2339",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -343,7 +343,7 @@
   "2347": {
     "id": "2347",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -359,7 +359,7 @@
   "2370": {
     "id": "2370",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -390,7 +390,7 @@
   "2371": {
     "id": "2371",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -428,7 +428,7 @@
   "2372": {
     "id": "2372",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -439,12 +439,27 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBdbKrAAzyqt8Of/QQCMezC",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBiOlKaFg4dUEBHeXD3mZC+",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfYxLGgqY+SY8Csi+dH/t6RCjtgf7ogAJxjnrOEtGjCBue4P7XiR35cxxvAN7S3Kx4",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "UbKdlt+A/k8snJlUrlF+eAGTMlY4hiIFRPe1GGlIqTbJRyMI1HOhz+V7bkQtfGHlivuJUYjXUBPVixAwMnIjnFRc7lKmMHxuhfs8y1AOsdCRHO31fsv9qLR6qB/rrQ9HYXRpUTY74AUUS3n2KbGSTfse5IvceZU0/zQjUxDhpCk=",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "z91iEutREnGeOQ1kzCp26g==",
+        "u": "endSs3GUy4AZxV0yu04vlT82t3IICOPeSsgmpiwHfG/pkE56Funr6/oO61wpKq0p",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2373": {
     "id": "2373",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -460,7 +475,7 @@
   "2374": {
     "id": "2374",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -476,7 +491,7 @@
   "2375": {
     "id": "2375",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -492,7 +507,7 @@
   "2376": {
     "id": "2376",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
@@ -508,7 +523,7 @@
   "2377": {
     "id": "2377",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "07/11/2026",
     "t": "9:00 PM",
