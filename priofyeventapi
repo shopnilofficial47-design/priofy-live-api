@@ -742,7 +742,7 @@
   "2461": {
     "id": "2461",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "7:00 PM",
@@ -863,7 +863,7 @@
   "2466": {
     "id": "2466",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "7:00 PM",
@@ -935,7 +935,7 @@
   "2471": {
     "id": "2471",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "7:00 PM",
