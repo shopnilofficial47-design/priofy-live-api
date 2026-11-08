@@ -3920,7 +3920,7 @@
   "2684": {
     "id": "2684",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "5:45 PM",
