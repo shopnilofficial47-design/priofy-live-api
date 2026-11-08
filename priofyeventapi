@@ -538,7 +538,7 @@
   "2440": {
     "id": "2440",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "8:30 PM",
@@ -801,6 +801,27 @@
       {
         "n": "oRot+i/M0OK5P+FUXhIOfg==",
         "u": "Tv08zQKlU2+B0aBF2WU/sqPDBKc6KvrBtbxabfhEP+oboqs1NZMh/30n7DVujAsyExb3RV0if3mh2xJ8U+2VJ6LPh3qChlVUyctE3LsQlieU+yB1qu2r7RjeUiMLcWiO8o5mk8Cq3DB/+diK7VRi0pjYwVeBLc4ew87QWePpbiDuugOvsGyMoYfP8cirrk1iahR3rUpEYYYEfVkU7OZA3A==",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "U/KWITmG7nDFprJ+AEk888L6QjSjjmtxaSf006jnz4ycRwUFWkyo7vQM06jLCJVukipwtu6pX9AkOElHKSOFiM7TV/lN27zzqIW9BTJYqIM=",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "2DijBb7ftpjmyk/7UnILvQ==",
+        "u": "KI3JhPgroEuj/NiIMdN2zOMBUviPj+9Zw8Wi6ewzogn5LSr2KTl4EMBYXC1VItYd3N2kxvLpEfFcR3CghRhAZGGUo/t5/8HVECmUQcVpbbMegF4O+SHNtCqpYR0fasVBBaK4P8rjc2n4DC3wB74jaw==",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "oBBUhmTocb7cKZZnNXZM6A==",
+        "u": "KI3JhPgroEuj/NiIMdN2zMkDi1eIsGQ1rWRW4uldk88M38cCZ5MfJQR9ih4iecMEuetvgvm3tPupWR1VkIC4I7yvbXvfgD74lsdQ/fMxf/FljjVUiQeX+9QO24cUnVn9xt0kM4r3vOPmO2ppc4lfiA==",
         "drm": "",
         "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
