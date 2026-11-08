@@ -1021,7 +1021,22 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBwCloWOKsHYMfST3LhVHFoQtBgTMW6yHEAtr8D/G/Rcw==",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCFt84Q8XHzKxGr5Ewkz2vI9sIWAbKvAvDhsIyMerK+Lg==",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgf4E13aNJb46flp+qCOF1uvYvOR9jJoL/LLEgjRObrYGssJU53OS7LK3jN+gCGj6dt",
-    "s": []
+    "s": [
+      {
+        "n": "j4EX0j6T2xD3mDqOsIfTGu1/FlP6hKkaiuZjPMPn/qY=",
+        "u": "ERR1XPZci9rjkVdukce4EX9Ez879ExnPNkVTECq/HHt8oKym4PpyMHUqdueN5IxNTnw/ZBCrQhZWfDRoRg2Vs1TibEttLRb1R+RMa7S5Y3IPWrSwgIeDHid6sgoOqaYryYVRKCKIZS82OR+gP2zLxH5HS66lLT7bC0FZdqHBTMHJs8Kd2sLi/yDREzZNeoqN4R2d7AcBW9ct0Rbpe0Sq3MJTaFbUSLZ6ggNG1PfSLoaZZhoho0U/CDXZ/ump+q0A",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "eeNnIxgjyu2+sPOaRasZWQ==",
+        "u": "UbKdlt+A/k8snJlUrlF+eAGTMlY4hiIFRPe1GGlIqTai3zCWoU7Cx/W9gwdwUNG3pVqfbONPntx2E9EMHiIGmLzE9img12yX7sD8m3o7f/wyerhdeA0tgyRess9dFrUJ54WoA39npJCQNDOnNFZ60rYtl/FeZysI8CwbMotKTtQ=",
+        "drm": "",
+        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyZUye7Vtp79gxNF3jMKWn7bNXhwfrE1DskSy2vqioS4j2ngnMWLin42RjBQ5blzbjo7jzxTktT2Vv5LlpaPf/D",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2472": {
     "id": "2472",
@@ -1153,7 +1168,7 @@
   "2498": {
     "id": "2498",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "09/11/2026",
     "t": "12:00 AM",
@@ -1217,7 +1232,7 @@
   "2502": {
     "id": "2502",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "09/11/2026",
     "t": "12:00 AM",
