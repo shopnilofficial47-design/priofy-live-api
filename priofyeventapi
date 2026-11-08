@@ -909,7 +909,7 @@
   "2454": {
     "id": "2454",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "9:45 PM",
@@ -940,7 +940,7 @@
   "2455": {
     "id": "2455",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "9:45 PM",
