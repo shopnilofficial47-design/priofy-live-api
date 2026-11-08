@@ -132,7 +132,7 @@
   "2424": {
     "id": "2424",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "7:00 AM",
