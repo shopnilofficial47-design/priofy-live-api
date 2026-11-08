@@ -246,7 +246,7 @@
   "2433": {
     "id": "2433",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "08/11/2026",
     "t": "11:15 PM",
