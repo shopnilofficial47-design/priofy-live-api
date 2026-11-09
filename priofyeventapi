@@ -93,7 +93,7 @@
   "2504": {
     "id": "2504",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "09/11/2026",
     "t": "10:30 AM",
