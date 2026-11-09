@@ -34,7 +34,7 @@
   "2332": {
     "id": "2332",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": true,
     "d": "09/11/2026",
     "t": "9:30 AM",
