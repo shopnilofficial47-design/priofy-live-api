@@ -34,7 +34,7 @@
   "2508": {
     "id": "2508",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "6:30 AM",
