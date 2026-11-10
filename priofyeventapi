@@ -186,7 +186,7 @@
   "2523": {
     "id": "2523",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "5:15 PM",
