@@ -34,7 +34,7 @@
   "2515": {
     "id": "2515",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "11:45 PM",
@@ -79,7 +79,7 @@
   "2516": {
     "id": "2516",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "11:45 PM",
