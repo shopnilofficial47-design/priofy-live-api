@@ -509,7 +509,7 @@
   "2550": {
     "id": "2550",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "11:00 AM",
@@ -540,7 +540,7 @@
   "2551": {
     "id": "2551",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "10/11/2026",
     "t": "11:00 AM",
