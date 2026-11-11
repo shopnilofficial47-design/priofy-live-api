@@ -2,7 +2,7 @@
   "2260": {
     "id": "2260",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "11/11/2026",
     "t": "3:30 PM",
