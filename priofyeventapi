@@ -280,7 +280,7 @@
   "2570": {
     "id": "2570",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "12/11/2026",
     "t": "10:40 AM",
