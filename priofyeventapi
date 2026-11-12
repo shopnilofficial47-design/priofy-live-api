@@ -402,7 +402,7 @@
   "2571": {
     "id": "2571",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "12/11/2026",
     "t": "2:10 PM",
