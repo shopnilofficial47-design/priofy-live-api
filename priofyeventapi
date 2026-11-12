@@ -362,7 +362,7 @@
   "2563": {
     "id": "2563",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "12/11/2026",
     "t": "11:45 PM",
