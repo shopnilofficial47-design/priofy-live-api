@@ -417,7 +417,7 @@
   "2574": {
     "id": "2574",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "1:00 AM",
@@ -462,7 +462,7 @@
   "2575": {
     "id": "2575",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "1:00 AM",
@@ -493,7 +493,7 @@
   "2576": {
     "id": "2576",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "1:00 AM",
@@ -531,7 +531,7 @@
   "2577": {
     "id": "2577",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "1:00 AM",
