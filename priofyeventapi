@@ -1507,7 +1507,7 @@
   "2692": {
     "id": "2692",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "5:30 PM",
