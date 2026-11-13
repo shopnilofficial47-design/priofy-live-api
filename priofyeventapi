@@ -382,7 +382,7 @@
   "2598": {
     "id": "2598",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "8:45 PM",
