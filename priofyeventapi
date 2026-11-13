@@ -178,7 +178,7 @@
   "2595": {
     "id": "2595",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "6:00 PM",
