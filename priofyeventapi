@@ -392,7 +392,7 @@
   "2604": {
     "id": "2604",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "10:30 AM",
