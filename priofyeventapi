@@ -340,7 +340,7 @@
   "2603": {
     "id": "2603",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "13/11/2026",
     "t": "9:30 AM",
