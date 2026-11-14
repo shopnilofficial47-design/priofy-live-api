@@ -253,7 +253,7 @@
   "2637": {
     "id": "2637",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/11/2026",
     "t": "4:15 PM",
