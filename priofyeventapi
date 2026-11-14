@@ -1873,7 +1873,7 @@
     "t": "11:00 PM",
     "visibility": "unpublic",
     "noti_sent": false,
-    "is_hot": true,
+    "is_hot": false,
     "enc": true,
     "s": []
   },
@@ -3233,7 +3233,7 @@
     "t": "8:30 PM",
     "visibility": "unpublic",
     "noti_sent": false,
-    "is_hot": true,
+    "is_hot": false,
     "enc": true,
     "s": []
   },
