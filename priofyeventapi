@@ -386,7 +386,7 @@
   "2649": {
     "id": "2649",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/11/2026",
     "t": "10:40 AM",
