@@ -3191,7 +3191,7 @@
   "2836": {
     "id": "2836",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/11/2026",
     "t": "3:00 PM",
