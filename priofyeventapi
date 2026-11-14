@@ -207,37 +207,6 @@
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfL6ApMi5yI59ljo1ugvHH8JkUsWRPhMMRUQTz1UIQ0I7UTeKNyKCMUhbaHphLlA25",
     "s": []
   },
-  "2635": {
-    "id": "2635",
-    "visibility": "public",
-    "noti_sent": false,
-    "is_hot": false,
-    "d": "14/11/2026",
-    "t": "7:00 AM",
-    "enc": true,
-    "l": "SWSoCGsaSKvu+UU2G59MRWX19snQxrh0jCRRNtdWw3+IhKqmwhiuFyPwY3ih8LKA",
-    "t1": "SxCW+xpgyVOnZT+ZhIcf6A==",
-    "t2": "HHY4olgAbamWFcfVIcnQag==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLC4Y9m91REvvVQOtrVPq1gi4fc/khOKQR/c3fa3YJYvMg==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAeVctKCg9ULCyzVAWCRzxCw4hPn1dXs+Mlf1CTiDWgeQ==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfYFi4Y4KTcj/3XlE+78dPwpVMIseWrTPWMBZuq4LgBlrdK3I5hJkixQtsgiJMLhny",
-    "s": [
-      {
-        "n": "cCISiq4wT/e+hf2qFrtZRA==",
-        "u": "oxhja3PhDrYRio4ElBJUF18TMkBEU43ZNkTaV0eGjMh3HGSMiifvt3CsRy+ERhNpAItbAG2VEsO57yzoDLuk0w==",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyrU+w0f9cTI5H2BEnaNWeAF0saOydOhm4BK/MTQKEz/BseSb5xZb2vTTEu328rZvWs3e8br//7N2x+fBENw0C1",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms=",
-        "drm": ""
-      },
-      {
-        "n": "2DijBb7ftpjmyk/7UnILvQ==",
-        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57sWHkozSqE//HZUxig4J261wydVyH1Ha3D90mfgK+5lohdkcWHXGpw3FRIl4dMQV6f7EFEvLrlYm+Th8cgJ4n+vGk4cWYq2rG7w+qcCLudHmA==",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvSuizlAmBNdFRi0Eyp6VJmfaaMuxeLLa42QhsjuL4IeN6clJ0H33HZKMdtZQmA01lL",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms=",
-        "drm": ""
-      }
-    ]
-  },
   "2636": {
     "id": "2636",
     "visibility": "public",
