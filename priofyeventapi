@@ -545,7 +545,7 @@
   "2645": {
     "id": "2645",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "14/11/2026",
     "t": "7:00 PM",
@@ -3586,6 +3586,13 @@
       {
         "n": "woCagLaOGOPhhZ473IIHJA==",
         "u": "KomHxQ7VyKi7UYi+g8YoK/ZgWFc9c+qVY3Wrc940Ox28XoSQE4jityFU2jtkKbxo",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "VANuEeT6ifDjibbdjqfHrw==",
+        "u": "8KPoPEcLsJHXP65IWCcbK+j8ofrhlt3IelMqCCf3gONcjmBhUmzqj0TmY7H8eY34BD39CmxyZ17PS82jXz3irw==",
         "drm": "",
         "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
