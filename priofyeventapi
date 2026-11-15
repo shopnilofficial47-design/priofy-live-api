@@ -242,7 +242,7 @@
   "2671": {
     "id": "2671",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "11:30 PM",
@@ -294,7 +294,7 @@
   "2672": {
     "id": "2672",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "11:30 PM",
