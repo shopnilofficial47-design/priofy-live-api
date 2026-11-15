@@ -2,7 +2,7 @@
   "2664": {
     "id": "2664",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "11:00 PM",
@@ -96,7 +96,7 @@
   "2665": {
     "id": "2665",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "11:00 PM",
