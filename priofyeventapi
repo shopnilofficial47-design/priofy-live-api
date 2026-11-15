@@ -338,7 +338,7 @@
   "2699": {
     "id": "2699",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "5:45 PM",
