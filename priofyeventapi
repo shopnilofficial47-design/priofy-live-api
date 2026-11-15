@@ -406,7 +406,7 @@
   "2698": {
     "id": "2698",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "15/11/2026",
     "t": "3:30 PM",
