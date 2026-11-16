@@ -89,7 +89,7 @@
   "2702": {
     "id": "2702",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "7:00 PM",
@@ -141,7 +141,7 @@
   "2703": {
     "id": "2703",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "7:00 PM",
@@ -186,7 +186,7 @@
   "2704": {
     "id": "2704",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "7:00 PM",
