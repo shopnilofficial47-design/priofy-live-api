@@ -454,7 +454,7 @@
   "2714": {
     "id": "2714",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "11:00 PM",
@@ -534,7 +534,7 @@
   "2715": {
     "id": "2715",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "11:00 PM",
@@ -635,7 +635,7 @@
   "2716": {
     "id": "2716",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "16/11/2026",
     "t": "11:00 PM",
