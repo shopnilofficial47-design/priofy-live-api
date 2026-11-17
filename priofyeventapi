@@ -678,7 +678,7 @@
   "2747": {
     "id": "2747",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/11/2026",
     "t": "8:00 PM",
