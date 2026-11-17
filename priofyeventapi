@@ -6869,5 +6869,21 @@
     "is_hot": false,
     "enc": true,
     "s": []
+  },
+  "3142": {
+    "id": "3142",
+    "l": "fnzinbooPuPc9TuaMKyAyGPoz+ApzvF6nZ9zab72zL8=",
+    "t1": "6Wsgz92v/6sDLQOOKpzbPw==",
+    "t2": "gNY1g7RNjZUWQTY4qlCF0Q==",
+    "lg1": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1KsZ+2qK6gBDhjVTBRjWqLJJjWHmBVkSP/nHinAEWPDfKWtCgceEKH4R+5bJmLUQqYlLtD75biWnB+k/2/97jb009O63cMqvKqRYQTmXpxVTkpApvTXz8hN8yPqVSoZxO",
+    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLA1uiYiMEKxWMC6RAtCVpdhld6NomeqsUKkz/itK1YWpg==",
+    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksneLiu2a8nQl4V6pjPIPrIw==",
+    "d": "17/11/2026",
+    "t": "6:30 PM",
+    "visibility": "unpublic",
+    "noti_sent": false,
+    "is_hot": false,
+    "enc": true,
+    "s": []
   }
 }
