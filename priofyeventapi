@@ -311,7 +311,7 @@
   "2742": {
     "id": "2742",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/11/2026",
     "t": "6:00 PM",
@@ -457,7 +457,7 @@
   "2744": {
     "id": "2744",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "17/11/2026",
     "t": "6:00 PM",
