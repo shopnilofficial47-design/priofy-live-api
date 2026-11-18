@@ -565,7 +565,7 @@
   "2799": {
     "id": "2799",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/11/2026",
     "t": "1:00 AM",
@@ -603,7 +603,7 @@
   "2800": {
     "id": "2800",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/11/2026",
     "t": "1:00 AM",
