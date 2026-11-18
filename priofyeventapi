@@ -253,7 +253,7 @@
   "2784": {
     "id": "2784",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "18/11/2026",
     "t": "5:00 PM",
