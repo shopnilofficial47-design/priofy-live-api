@@ -113,7 +113,7 @@
   "2803": {
     "id": "2803",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "4:00 AM",
