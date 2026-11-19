@@ -321,7 +321,7 @@
   "2815": {
     "id": "2815",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "2:00 AM",
@@ -387,7 +387,7 @@
   "2816": {
     "id": "2816",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "2:00 AM",
@@ -460,7 +460,7 @@
   "2817": {
     "id": "2817",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "2:00 AM",
