@@ -200,7 +200,7 @@
   "2812": {
     "id": "2812",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "4:30 AM",
@@ -231,7 +231,7 @@
   "2813": {
     "id": "2813",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "4:30 AM",
