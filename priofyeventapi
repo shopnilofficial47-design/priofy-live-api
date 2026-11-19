@@ -242,7 +242,7 @@
   "2809": {
     "id": "2809",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/11/2026",
     "t": "5:30 PM",
