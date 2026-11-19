@@ -5416,7 +5416,7 @@
   "3128": {
     "id": "3128",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "19/11/2026",
     "t": "4:00 PM",
@@ -5427,7 +5427,29 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLC0mc0RghX71yz0QWk3A19/dmsVIOkNludd0itjt53w6w==",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCyAZNFm27++VN21Rah9gPgQrfLFb8GGsl9KHozilLpIA==",
     "llg": "",
-    "s": []
+    "s": [
+      {
+        "n": "U4C8u9lIFJNCYhz8U4u8VA==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWvtI0snC1k2SwcohCX/7MNrnQMi1OZj7VsyX2siyLvE/eJ9epYf4z0gn7H2NerFLGwDNTwNRwtF0vC6fFwHI/x8/P+IwrPmV7rcWdx0fjDUX",
+        "drm": "ywyvibCVk/BW06RUT9dWpfPDa9fzXbjpOjg41HDVOlpIum6PqXWI1yJt6OiNClRjeoNHfZrSpdmx8vfAs3Jyc7x5ICzWiFXhXIWOLsXiptA=",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "zWL+MOlKlwN9bGpooQ8/xg==",
+        "u": "2+1u0Q12HwjU60l2KP/S2/dAnTzEcegp7SmbHT2jY5ehPgdQy3PNzxLWuDeRIvAZzK4Tg+UlNiibjrTlgJ4ihlpNaYgfPM4IzxtYTegXejAytX3Uxn1TNEuF4zhcLpkLH15QGTc4PemvnDtsemkoX8rijBwi6lJ22KrcN7Av4vRarfYuV/VBkZ13Er3TRfX+",
+        "drm": "ywyvibCVk/BW06RUT9dWpfPDa9fzXbjpOjg41HDVOlpIum6PqXWI1yJt6OiNClRjeoNHfZrSpdmx8vfAs3Jyc7x5ICzWiFXhXIWOLsXiptA=",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "fhVBIuO/8ia7nMt09t8b/g==",
+        "u": "61wYR382oJnPAipFwqe5KDygyPgKMhAHIUr5P7/n9WVKzKlihgYPphk7fKRw3PGMXnzbYt8j938L+/lYumUE4/xWSzhDrNPuJps7jJB4W2d6/Tv3vLIZhkMXFvF9NEkN4eM0GpUFp5d/efwWiPOqRglJ80a7izZwmf0pn/V1oj9UGOf2xTIN2zSVQgBelvroc0GwyzqO/VDoxBw+8qMyrgiel66D9M2GmhfuU29FzwnaD5PKD+E7mlseN3fl4asX/+p6ox/SGz0ql0lZ/1vmFsCOEfvAfYsc7dkazJ5hegwxHFmhoODjd7nUXawh4RP7",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "3129": {
     "id": "3129",
