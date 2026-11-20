@@ -170,10 +170,10 @@
   "2824": {
     "id": "2824",
     "visibility": "public",
-    "noti_sent": true,
+    "noti_sent": false,
     "is_hot": false,
     "d": "20/11/2026",
-    "t": "11:00 PM",
+    "t": "11:30 PM",
     "enc": true,
     "l": "pcSrBU4LChw5IvgG2pWujsARLIEA/H4qaFdojKzzCSQ=",
     "t1": "YZZDqUVgLEOZQeLjkHaawg==",
