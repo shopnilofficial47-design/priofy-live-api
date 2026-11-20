@@ -5319,7 +5319,7 @@
   "3148": {
     "id": "3148",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "10:00 PM",
@@ -5350,7 +5350,7 @@
   "3149": {
     "id": "3149",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "20/11/2026",
     "t": "10:00 PM",
