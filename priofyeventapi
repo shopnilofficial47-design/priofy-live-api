@@ -1155,7 +1155,7 @@
   "2906": {
     "id": "2906",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/11/2026",
     "t": "5:15 PM",
