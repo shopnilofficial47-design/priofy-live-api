@@ -1520,7 +1520,7 @@
   "2955": {
     "id": "2955",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "3:00 AM",
