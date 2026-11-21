@@ -1516,7 +1516,7 @@
   "2891": {
     "id": "2891",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/11/2026",
     "t": "9:15 PM",
@@ -1579,7 +1579,7 @@
   "2895": {
     "id": "2895",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/11/2026",
     "t": "9:15 PM",
