@@ -5361,46 +5361,6 @@
     "llg": "",
     "s": []
   },
-  "3153": {
-    "id": "3153",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "21/11/2026",
-    "t": "7:30 PM",
-    "enc": true,
-    "l": "AEKBvMyVmRqg+DboZEeCAgVFHXW9B475vXWjP/40e2QFEfSKUtiXFvhHpgwxBWBK",
-    "t1": "K9Otf7tWNqvdjgxxfWGVaw==",
-    "t2": "kqm9ie4mANs0FSsGis0Vnw==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAkv5z6+OMXP9PG5WyG32AxS6lTS/QVHoeENUutBfvICA==",
-    "lg2": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1KsZ+2qK6gBDhjVTBRjWqLJJjWHmBVkSP/nHinAEWPDfKWtCgceEKH4R+5bJmLUQqYlLtD75biWnB+k/2/97jb1D9qqcClydWinCZ1/sl2w3pEQW/qRDPpEYjJkaLUYSC",
-    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ks/+8FtUFOmbnJ6uvna5RAlg==",
-    "s": [
-      {
-        "n": "q89zPv+N/6kZL68z6psbng==",
-        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2QpBo6Nn+szwCt5xeV2H7Fnp/GJfnoSkXvNVI7qs0ghjx0XETWjyfJcoxlh9GyeVGNLvuI161sm4jC3YsfPRavKAKxUrEuX431jg5nYlWN3B1HqK19uwAS3AViG05vwr0+Y9cGkROzyCWKiE+KsWPvgQBFwX41NBoCtU+gXbMjwEwLoY6n450rZPDERh7Z2RtSVAHQFt+3C8h9K6SXVDLX/FgczdgKAY3MUV3nlte9V4o/bLfCrY9+oAU5qjsL12vFXOI92ofME3vT5CpKRdPKf",
-        "drm": "",
-        "ref": "",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
-  "3154": {
-    "id": "3154",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "21/11/2026",
-    "t": "8:30 PM",
-    "enc": true,
-    "l": "AEKBvMyVmRqg+DboZEeCAgVFHXW9B475vXWjP/40e2QFEfSKUtiXFvhHpgwxBWBK",
-    "t1": "BTM+DES2qecbQiopM497gw==",
-    "t2": "MhFoI8WtWocovaSjZYgmqQ==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCVHnotREAYb+sHTbPmHJNUQJkl6SipuKRNtNbZbf+YjQ==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLCRFQ63ecfQF2JGXoq48tonWf4buBGZ7nzjutP8SvLvpw==",
-    "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ks/+8FtUFOmbnJ6uvna5RAlg==",
-    "s": []
-  },
   "3155": {
     "id": "3155",
     "visibility": "public",
