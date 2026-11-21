@@ -1010,7 +1010,7 @@
   "2897": {
     "id": "2897",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/11/2026",
     "t": "4:30 PM",
