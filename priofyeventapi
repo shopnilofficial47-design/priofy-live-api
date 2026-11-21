@@ -263,7 +263,7 @@
   "2910": {
     "id": "2910",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "2:30 AM",
@@ -457,6 +457,13 @@
         "u": "ynVW9w0RiDV9ONgAyzED6tryNUw9WNysuUwVvS0Q/Qw67LRM6roQcDUJhWlV6B67XAM66eoQYznyF175kbchN7i+MCIVeRloNGklQl/9bluwCqSE3EmraGSAdQ+/+yw/EXXKe7xE7LYk/AjNX7g+0w==",
         "drm": "",
         "ref": "OMieEgscudN/jplBXGyglDvWxyTgD7DAOKsrEqUIgO4=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "eaPAVPcJmAfwO9W3GRVn/Q==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWnMhXrvfdMzSbCO9LyjG3cQvSJJbPF2mjO9jXKZzHTrUV3Ph6enzOuaHu+0A5TCt/lizhEB+Mr1xuP2LpdzTu5iIV70ImzOYY4c1QRhvi3zok6AwFfuBhNB9xTBSwqWCYSuDJeKcnJ9rxmhOZ55Atf+yyiySs+r2lIM64eOs8cD1RU5bOuyTYdsdI/Y8Hg6iSWyg0bKe1AGWueGrAvhL5vjLNf6Re3VgRoDCQRhdUwuD",
+        "drm": "",
+        "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
@@ -911,6 +918,34 @@
       {
         "n": "ASppUscD4x7rNQ/vQ0gg4w==",
         "u": "U/KWITmG7nDFprJ+AEk886RRNcS3aIM50eP9bEfasaWXPYpNez+DMiSyK6kJtnESLAXK86/o6OfB9KfBYizxc0OzPIkWaF9lnZxfCeCeEAM=",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "eaPAVPcJmAfwO9W3GRVn/Q==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWhCASZQmJ06OW+TWN6XUCypXwUfnLaOoZ3jEry0DkgXR/HniyQJdXCKvvigb3hXjKYyXCh7sWntp2fqM8E82qtySTOivwZjhSK/4Af1cUpmEIJTKNCq0gpSxYErjquq1nbT57eD94Mz0yoSyFTm3g5SVDr+e71PY+yep2BKcbHTg08XnweHNZ2s8jLAwznXeMATwgXP5CrvDeNzFJ9lR/gzk2bjRIi3z3H1xkaSDM4CM",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "JBA3V0bmzeqjKr+ykYqMlg==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWiGrYb4Bqf5uO0aJrbP1uNOYX/uZh1zxsXwaPeaA3W/HH/L6GTT5lE8pPbT/o0Y5/tSyx/Rl+iLGP8JfjfgAmACBpIqK5kwh43Lq/t9O3lZWITIBlxVbYv63ft8rJixbE9IXCl296OV5w1p8xESUWfeksImOIKTTIs4lWqV3GV7ZfzFM7+Yh8WmuNHdtV5JM3TAH51xPeDeVhFDCple4/aQcZBAdnoGM4WVsPi6yL23Y",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "VC1+YUdyQTBxt0mdTdBiiA==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWjmOIxxZint8jerISd7aIsLKVqDTDs4GejQJk3ooZNXcFJTkdMIaiqpmlEBfs8w5xB3r4G6x3VDWYlmODy7C7l7PmORHR8J0KojzofkjabrPo+4eKAYBY+niSjKSJNoFEmoIa9N58s8bd5bxUhn0giNV2W4VvQHYge6nGitTW4hWXGoSF+5CuMr9rgMmgE9Ez/PzCfT4/wpENYaR4Ia1ZTADW/uf9V0CEtbkM4AkX/JW",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "u4daqdgVEVZ1r9sMiOKQHg==",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWg89yv9xNZWT5SAt0+3uG0vyiniQk2vC0VkSLCXgzPSpGsvwdp3bsXpx3pjFrE7Hx40ZIsTQAV1vzVrRs0/aoPEMLqvVawcvbHHb3EVbQmyU5oDb2J/chv2ISvdXJrEBdtuN/1JsTHswvvIetdYASvfQ2TnZSy6lH+4ElN8cFKhYkIRzUgIzzYdznNFUBs3CB+qjw/f9WbfYfSschnYyGEssF0J8ue7+pGKQW8QTmWg8",
         "drm": "",
         "ref": "",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
