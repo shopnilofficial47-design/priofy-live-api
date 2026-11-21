@@ -1064,7 +1064,29 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLBYSTjXv2slohnkcQoAM58kWUYXJsTPcJ8cTSzIowjlQA==",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDgQIBhMDcZcem0nM2DuKdFsgAclw8xf0FdVao6GYDG3A==",
     "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksQjoK3HLeruXpA+wWxrF8IQ==",
-    "s": []
+    "s": [
+      {
+        "n": "O33oB3zemk0vcAu3MDZ6kEFZBPCvXkcNB6oyI6I4i/A=",
+        "u": "jWOGqscojkH9YqAtOnSsZ9wMlHIBEzRyGtzlQwXCL2Sre1WYxd9W6sq/evN7bQlSNEP7xjuBKRAvAm+yGCQsWlhDUiODNxlXV68enuQjOV0Fp78743IvjKq2yX45vcdqSK+P1zGAi7vxnDtx885LVhmlUjVmj3FgYVpK9+6JR+sJB8J/MKCMlmBftl0dRF/tJZq/ORzxzftlajj2PUA4DmLpaMd3Uqu6tXYH+VhHffVDUyxnfTiXXeuwfqXXb4O4+DW++G2BxegMgCGl3ZCSJ8D7lhOvetcJr37WXKbJ/ZlMFp0WEexnzcdU1sJ+E1mS",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "oxhja3PhDrYRio4ElBJUF18TMkBEU43ZNkTaV0eGjMh3HGSMiifvt3CsRy+ERhNpdhlFnvIM1QM7CRQpyW2Q1w==",
+        "drm": "",
+        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyrU+w0f9cTI5H2BEnaNWeAZ1wx+PPyAAqVHGV1jvcSpGpiiUHPQ+oLLmdHh6f0MDcLyeCZVl8v2HfEMQ6tavEI",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "2DijBb7ftpjmyk/7UnILvQ==",
+        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57s8ZqVCtuypuMMnpkvhJNJM9NsrccE4gvkihaj2fXTTh74+0GHPRLevdifSlPkN6wySAB5cbkSbk6efaEJXt+07m0KTvEP6qVy8+bnF7BXn6GwqoY3ZFKLaMvXb48A8WsA=",
+        "drm": "",
+        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvSF+pY8T0skGsz4o6B5g5TivEyDuA7bU0/me9A2z/hkQrsSuM4nmRfOUwXapYaasMz",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2872": {
     "id": "2872",
@@ -1664,7 +1686,7 @@
   "2900": {
     "id": "2900",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "21/11/2026",
     "t": "10:00 PM",
