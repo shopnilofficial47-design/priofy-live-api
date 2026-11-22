@@ -693,7 +693,7 @@
   "2976": {
     "id": "2976",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "2:00 AM",
@@ -787,7 +787,7 @@
   "2977": {
     "id": "2977",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "2:00 AM",
