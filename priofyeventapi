@@ -800,7 +800,7 @@
   "2944": {
     "id": "2944",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "11:30 PM",
@@ -911,7 +911,7 @@
   "2948": {
     "id": "2948",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "11:30 PM",
@@ -949,7 +949,7 @@
   "2949": {
     "id": "2949",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "11:30 PM",
