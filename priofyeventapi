@@ -3969,7 +3969,7 @@
   "3163": {
     "id": "3163",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "9:30 PM",
@@ -4016,7 +4016,7 @@
   "3165": {
     "id": "3165",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "9:30 PM",
