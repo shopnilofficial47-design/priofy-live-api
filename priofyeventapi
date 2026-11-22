@@ -458,7 +458,7 @@
   "2924": {
     "id": "2924",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "8:30 PM",
@@ -4156,7 +4156,7 @@
   "3161": {
     "id": "3161",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "8:30 PM",
@@ -4205,7 +4205,22 @@
     "lg1": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1KsZ+2qK6gBDhjVTBRjWqLJJjWHmBVkSP/nHinAEWPDfKWtCgceEKH4R+5bJmLUQqYlLtD75biWnB+k/2/97jb2tu4z+7hmHu87Vy1YCaRhOEuUH7AHpCtkl5QkUG1Sdv",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLD1IDNSk2OiuWLUwX1oaks7mkpwy2q9NOLgGnok5ILY/w==",
     "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ks/+8FtUFOmbnJ6uvna5RAlg==",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "wKfe4fViPbRXU11sUNa9GMK6d9psNVf8tcnSW6QWpqzBD7vfBoq94+kNb8n6yEhXX1KJuqBBTKl4wp6yrsq6Ew==",
+        "drm": "",
+        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyrU+w0f9cTI5H2BEnaNWeA633qm+upH2Z9YVz5icf7LODoM+BH8jkVTda6/mSNOXg5Yya14yYkK/IwC2+7JsQ/",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "2DijBb7ftpjmyk/7UnILvQ==",
+        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57vWV/Skq83h1DPrsPspaHS9iasQMjAg/pRKM7tlR4w6RXySOOapGgn88sUyohvHXn8qKyaeQIGQicPVuSqm8lMzlnSr4wkOeABf4OlTU5nN6/gtcAfYumOSe2A4PebgRu0=",
+        "drm": "",
+        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvS5VfG7Q7MHWzJdUypb761p0rEbhIlE+v2qpHRGNfy/c6i7offsE5EeOyENbobobEK",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "3163": {
     "id": "3163",
@@ -4770,7 +4785,7 @@
   "3200": {
     "id": "3200",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "8:30 PM",
