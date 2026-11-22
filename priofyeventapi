@@ -742,7 +742,7 @@
   "2942": {
     "id": "2942",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "7:00 PM",
@@ -882,7 +882,7 @@
   "2946": {
     "id": "2946",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "7:00 PM",
@@ -961,7 +961,7 @@
   "2951": {
     "id": "2951",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "7:00 PM",
@@ -999,7 +999,7 @@
   "2952": {
     "id": "2952",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "7:00 PM",
