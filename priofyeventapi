@@ -3444,7 +3444,7 @@
   "3134": {
     "id": "3134",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "4:00 PM",
@@ -4248,7 +4248,7 @@
   "3199": {
     "id": "3199",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "4:00 PM",
