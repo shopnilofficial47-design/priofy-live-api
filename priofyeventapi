@@ -3424,7 +3424,7 @@
   "3133": {
     "id": "3133",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "12:00 PM",
