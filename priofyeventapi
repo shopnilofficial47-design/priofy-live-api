@@ -659,7 +659,7 @@
   "2950": {
     "id": "2950",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "22/11/2026",
     "t": "4:30 PM",
@@ -670,7 +670,15 @@
     "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLD/qz8zuz67ZZdAkIUoChSL67F/CkHw//QA9yyhX19AHA==",
     "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLD3TGt758giu7A2sFCd+6U2mgD80GBmAkY7hbD5siLYsg==",
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrzUf+CBTen/EaE7q3Nmihbe+/YyVQSY8fRO9Me+h4NXHdXTAX5IAgx6wCwkJbwjiD7",
-    "s": []
+    "s": [
+      {
+        "n": "cCISiq4wT/e+hf2qFrtZRA==",
+        "u": "endSs3GUy4AZxV0yu04vla5E7pAjr7aKuOS12TWuSJa3Ur4Mnwm+7mot+V58otGR",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      }
+    ]
   },
   "2951": {
     "id": "2951",
