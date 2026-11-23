@@ -2840,7 +2840,7 @@
   "3170": {
     "id": "3170",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "8:30 PM",
@@ -3345,7 +3345,7 @@
   "3201": {
     "id": "3201",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "8:30 PM",
