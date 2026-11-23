@@ -2627,7 +2627,7 @@
   "3166": {
     "id": "3166",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "6:30 PM",
@@ -2686,7 +2686,7 @@
   "3167": {
     "id": "3167",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "6:30 PM",
