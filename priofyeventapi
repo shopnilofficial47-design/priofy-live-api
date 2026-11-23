@@ -2502,7 +2502,7 @@
   "3136": {
     "id": "3136",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "23/11/2026",
     "t": "4:00 PM",
