@@ -1280,7 +1280,7 @@
   "3029": {
     "id": "3029",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1305,13 +1305,27 @@
         "drm": "",
         "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvSyg10QjKU6U0gqVDPg5utnOZDhGLFgNQBFIkG4Zx5lkm8gP0oS4TqY3o+AGYqHDxp",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "oBBUhmTocb7cKZZnNXZM6A==",
+        "u": "bfrgm34BjQeuohKrElxe0n538e3EEQ//h5MyGB1fMseTMP5MaXoY8br00+Ys/VBmptIzrf+4zD/CA8jK+5Y42w==",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "RhAWcrTvjDThhL1MPSZkpA==",
+        "u": "endSs3GUy4AZxV0yu04vlR3/nfuUHAoqO+f0pT23QJ8Se2C1szWauj/GeXGGwLns",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
   },
   "3030": {
     "id": "3030",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1336,13 +1350,27 @@
         "drm": "",
         "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvS5VfG7Q7MHWzJdUypb761p0rEbhIlE+v2qpHRGNfy/c6i7offsE5EeOyENbobobEK",
         "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "oBBUhmTocb7cKZZnNXZM6A==",
+        "u": "bfrgm34BjQeuohKrElxe0n538e3EEQ//h5MyGB1fMseTMP5MaXoY8br00+Ys/VBmqnTl8OOEdwljQfnQk9s9mA==",
+        "drm": "",
+        "ref": "",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
+      },
+      {
+        "n": "RhAWcrTvjDThhL1MPSZkpA==",
+        "u": "endSs3GUy4AZxV0yu04vlTeGOWfKvFmHIUjUdDqm79Ex+33I3eklVkjiBw/iGJYU",
+        "drm": "",
+        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
+        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
       }
     ]
   },
   "3031": {
     "id": "3031",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1366,7 +1394,7 @@
   "3032": {
     "id": "3032",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1390,7 +1418,7 @@
   "3033": {
     "id": "3033",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1414,7 +1442,7 @@
   "3034": {
     "id": "3034",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1438,7 +1466,7 @@
   "3035": {
     "id": "3035",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1500,7 +1528,7 @@
   "3037": {
     "id": "3037",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1524,7 +1552,7 @@
   "3038": {
     "id": "3038",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1540,7 +1568,7 @@
   "3039": {
     "id": "3039",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
@@ -1564,7 +1592,7 @@
   "3040": {
     "id": "3040",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "1:45 AM",
