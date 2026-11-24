@@ -241,37 +241,6 @@
     "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1TUhvtS4SifqCnhQzyef2znCyUrVb6HoidOsmc1qSNJNmwAv/q2TD8jTE4wjQqjrz8Q3t24dKBJWVnoCPkM4QcgOBhBEsw5iOYGmKRJ/8V4Bxbmct4Lauz3TaKQ9xqagI",
     "s": []
   },
-  "3005": {
-    "id": "3005",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "24/11/2026",
-    "t": "7:00 AM",
-    "enc": true,
-    "l": "E9p+5JLz/Bb7vW5guqXHvA==",
-    "t1": "nlxQkYR1r34M/Z3dllEznw==",
-    "t2": "IUUeJcvCKPMnR/XpRwHkXg==",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLD3HRLVQHYvqK+KT0gqtxyO5LgaMBgJPcv3mrWKjCsePA==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLDHQyWD9I80BwLyyKt4tyW6Wqvdukrvs2m330ErnOayXQ==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfOEhbAffOatD6iFR9Q9dS0r1peT0bPOwznht1Ec8OBBgat2NsW9TvjhlGWNn/Y6dL",
-    "s": [
-      {
-        "n": "cCISiq4wT/e+hf2qFrtZRA==",
-        "u": "bfrgm34BjQeuohKrElxe0n538e3EEQ//h5MyGB1fMseTMP5MaXoY8br00+Ys/VBmbaO3Rg6uxKFsTLO9TpFTOg==",
-        "drm": "",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyrU+w0f9cTI5H2BEnaNWeAdXmPkSuq1zB9zibOeS66a++WQPS/ryzLDWOprnhuOxjw95QefcfOL8eyOxH3HQm4",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "2DijBb7ftpjmyk/7UnILvQ==",
-        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57sZ/aC8agw8+D7KJ/v/2vApYYUU1zAUUOkS3Cs0YqtukDXMfZN5sKKAHm7K8x51n4G3ggSNGrse69KRbi3JkLnlxl+53Cam8kEiUf3C1OnzdFGYN1tdKPoykpwFV6+x96M=",
-        "drm": "",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvSeL+7HS0VdVSipletEuKHy6jvufLh5qUsrlMRTCdqvzZBOJiNQhYWpaiw4/OcyDPv",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "3007": {
     "id": "3007",
     "visibility": "public",
