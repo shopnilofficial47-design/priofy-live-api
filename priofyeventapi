@@ -100,7 +100,7 @@
   "2987": {
     "id": "2987",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/11/2026",
     "t": "1:45 PM",
