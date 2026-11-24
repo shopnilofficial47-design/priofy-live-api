@@ -2354,7 +2354,7 @@
   "3179": {
     "id": "3179",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/11/2026",
     "t": "9:00 PM",
