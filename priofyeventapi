@@ -301,7 +301,7 @@
   "3007": {
     "id": "3007",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "24/11/2026",
     "t": "2:15 PM",
