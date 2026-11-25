@@ -149,7 +149,7 @@
   "3018": {
     "id": "3018",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "4:00 PM",
@@ -201,7 +201,7 @@
   "3019": {
     "id": "3019",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "4:00 PM",
