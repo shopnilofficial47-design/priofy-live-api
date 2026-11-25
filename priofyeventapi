@@ -1686,7 +1686,7 @@
   "3182": {
     "id": "3182",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "6:30 PM",
@@ -1804,7 +1804,7 @@
   "3188": {
     "id": "3188",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "6:30 PM",
