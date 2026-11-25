@@ -434,7 +434,7 @@
   "3048": {
     "id": "3048",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "2:10 PM",
