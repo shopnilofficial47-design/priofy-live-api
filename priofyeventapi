@@ -388,44 +388,6 @@
     "llg": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAYsRnYw1JLAz6yZhH9+4ksmlbHtOzkBi/3BnmXzWZfzA==",
     "s": []
   },
-  "3047": {
-    "id": "3047",
-    "visibility": "public",
-    "noti_sent": true,
-    "is_hot": false,
-    "d": "25/11/2026",
-    "t": "9:00 AM",
-    "enc": true,
-    "l": "E9p+5JLz/Bb7vW5guqXHvA==",
-    "t1": "OiSn8VjPiZuk9Tayu+f8yw==",
-    "t2": "+OpwCkRWhHwmpfqPg6w9xzx79BtiE7LQWMTWJzSctnE=",
-    "lg1": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLD9MlrH71nDQ4qFzI1eEMkE2IvpWkE31T43hmmYXYQTPQ==",
-    "lg2": "LaZFiIjGJQzrspsFtbYL5vLH0EaKoRc/R2tXU1JzaLAXdH3Di3mPf5qIw24NifDRr2YIzSJ4VT2fAxdG2nZUeQ==",
-    "llg": "zoBz9mGMR1Ok+KiA8DRUnjcGw9MCskAGi6YlOd0JdTe8a6qgyHjhQ5hWk/Hr97M1FjBh+8voHqoDoQ4gbYgaxw4ImxyHPwmnEbgnErwU4a3bY8QFPl1GMDWCuaoVpGgfOEhbAffOatD6iFR9Q9dS0r1peT0bPOwznht1Ec8OBBgat2NsW9TvjhlGWNn/Y6dL",
-    "s": [
-      {
-        "n": "cCISiq4wT/e+hf2qFrtZRA==",
-        "u": "bfrgm34BjQeuohKrElxe0n538e3EEQ//h5MyGB1fMseTMP5MaXoY8br00+Ys/VBm/0YDC+aTeglTPGh6kVwGlw==",
-        "drm": "",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyrU+w0f9cTI5H2BEnaNWeA11/L0OSIiuIQaAw3vf8sX+ygXTnBcSkULsb/LnZ96/0KL2ItadbtSFNARnh7m1Tz",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "2DijBb7ftpjmyk/7UnILvQ==",
-        "u": "92gkS3LsSOw+Kg6pXMj8yAG8/I5sNwr0p53MmH/D57tSFKYsz18jvG+W1kC1SmJCauhOEIbhn0m6IBLp7vfjGoEQ5Sn/jbIuooCE4ma7+G3MPer9VWK7cbdaVQblxMQMWVSjfjthWXuvo1zCNRyvT2jVpV7iYnHqMRCPRNgCuFQ=",
-        "drm": "",
-        "ref": "8hzi2AwXq8YcTKiGzH3AiNoommGeiGcH8ufLPcASPTyKJgeHL9nzLAo9T5DckgvSlOQiudfb3eyqyQola4OR+FT+2UbiSnbV7YPtgWiaQJVncmEekFMeNTlzidUkZoJo",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      },
-      {
-        "n": "oBBUhmTocb7cKZZnNXZM6A==",
-        "u": "endSs3GUy4AZxV0yu04vlfCedCRQcG8Yv0CJpwpN0E66V4zvNSmLqvDZ/u/azt1F",
-        "drm": "",
-        "ref": "nLJP4DvROVXzDm/F6MrCKHjfin4YrKBKP5e40aZr39U=",
-        "ua": "PXoOJ9AUrf2J7W8HmNeII5/Pv3lP60QiOZXQvv9hWlLPk/ZAK4qj0gP5VQe5uNJnl1lHx7ojeustaqYWe20BncLAkZZcpz7KuwKVFf97/B6+STBR2PrdVk7ll8zqrIi/G86dBPwYOYmS5ivRQ7J7SYcsb1yHXd0yLMiJET+rMms="
-      }
-    ]
-  },
   "3048": {
     "id": "3048",
     "visibility": "public",
