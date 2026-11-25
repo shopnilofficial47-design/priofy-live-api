@@ -86,7 +86,7 @@
   "3022": {
     "id": "3022",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "7:45 PM",
