@@ -1791,7 +1791,7 @@
   "3187": {
     "id": "3187",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "9:30 PM",
@@ -1864,7 +1864,7 @@
   "3189": {
     "id": "3189",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "25/11/2026",
     "t": "9:30 PM",
