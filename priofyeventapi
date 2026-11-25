@@ -1083,7 +1083,7 @@
   "3074": {
     "id": "3074",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "26/11/2026",
     "t": "5:00 AM",
