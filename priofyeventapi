@@ -1180,7 +1180,7 @@
   "3250": {
     "id": "3250",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/11/2026",
     "t": "2:15 AM",
