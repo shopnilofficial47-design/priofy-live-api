@@ -923,7 +923,7 @@
   "3235": {
     "id": "3235",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/11/2026",
     "t": "1:30 AM",
@@ -1323,7 +1323,7 @@
   "3260": {
     "id": "3260",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/11/2026",
     "t": "1:30 AM",
