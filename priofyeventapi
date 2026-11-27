@@ -34,7 +34,7 @@
   "3118": {
     "id": "3118",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "27/11/2026",
     "t": "6:15 PM",
