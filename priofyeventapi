@@ -865,7 +865,7 @@
   "3253": {
     "id": "3253",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/11/2026",
     "t": "6:15 PM",
