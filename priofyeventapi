@@ -1057,7 +1057,7 @@
   "3267": {
     "id": "3267",
     "visibility": "public",
-    "noti_sent": false,
+    "noti_sent": true,
     "is_hot": false,
     "d": "28/11/2026",
     "t": "7:00 AM",
